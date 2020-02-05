@@ -6,7 +6,7 @@
   become: true
   vars:
     hostname: david-host
-    tz: Antarctica/McMurdo
+    tz: Pacific/Honolulu
     token: T04NJ722U/BQB4MBBHV/RZPNWsz38MD1WtuVcena5reb
     
   tasks:
